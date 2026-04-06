@@ -1,0 +1,25 @@
+name: Feature Request
+description: Request a new feature
+type: feature
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest a new feature for a Mage Hand Press premium Foundry package
+  - type: textarea
+    id: feature
+    attributes:
+      label: What is the feature?
+    validations:
+      required: true
+  - type: dropdown
+    id: package
+    attributes:
+      label: What package are you making this request for?
+      multiple: false
+      options:
+        - "Book of Extinction"
+        - "Dark Matter"
+        - "Valda's Spire of Secrets"
+        - "The Last Owlbear"
+        - "Strange Owlchemy"
