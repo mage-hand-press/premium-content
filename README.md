@@ -11,5 +11,6 @@ Use the "Issues" tab above to submit any bug reports or feature requests for any
 - [Valda's Spire of Secrets](https://foundryvtt.com/packages/mage-hand-press-valdas-spire-of-secrets)
 
 ### Adventures
+- [Grax’s Club](https://foundryvtt.com/packages/mage-hand-press-graxs-club)
 - [The Last Owlbear](https://foundryvtt.com/packages/mage-hand-press-the-last-owlbear)
 - [Strange Owlchemy](https://foundryvtt.com/packages/mage-hand-press-strange-owlchemy)
