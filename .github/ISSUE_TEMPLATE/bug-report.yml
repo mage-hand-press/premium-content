@@ -20,6 +20,8 @@ body:
       label: What package are you reporting this for?
       multiple: false
       options:
+        - "Core Classes"
+        - "Complete Warmage"
         - "Book of Extinction"
         - "Dark Matter"
         - "Valda's Spire of Secrets"

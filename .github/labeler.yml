@@ -1,3 +1,33 @@
+mage-hand-press-core:
+  - "Core Classes"
+
+mage-hand-press-complete-alchemist:
+  - "Complete Alchemist"
+mage-hand-press-complete-binder:
+  - "Complete Binder"
+mage-hand-press-complete-captain:
+  - "Complete Captain"
+mage-hand-press-complete-craftsman:
+  - "Complete Craftsman"
+mage-hand-press-complete-dancer:
+  - "Complete Dancer"
+mage-hand-press-complete-gunslinger:
+  - "Complete Gunslinger"
+mage-hand-press-complete-investigator:
+  - "Complete Investigator"
+mage-hand-press-complete-martyr:
+  - "Complete Martyr"
+mage-hand-press-complete-necromancer:
+  - "Complete Necromancer"
+mage-hand-press-complete-vagabond:
+  - "Complete Vagabond"
+mage-hand-press-complete-warmage:
+  - "Complete Warmage"
+mage-hand-press-complete-warden:
+  - "Complete Warden"
+mage-hand-press-complete-witch:
+  - "Complete Witch"
+
 mage-hand-press-book-of-extinction:
   - "Book of Extinction"
 mage-hand-press-dark-matter:

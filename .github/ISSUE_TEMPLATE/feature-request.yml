@@ -18,6 +18,8 @@ body:
       label: What package are you making this request for?
       multiple: false
       options:
+        - "Core Classes"
+        - "Complete Warmage"
         - "Book of Extinction"
         - "Dark Matter"
         - "Valda's Spire of Secrets"
