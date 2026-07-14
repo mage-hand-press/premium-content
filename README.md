@@ -6,6 +6,7 @@ Use the "Issues" tab above to submit any bug reports or feature requests for any
 
 ### Core Classes
 - [Core Classes](https://foundryvtt.com/packages/mage-hand-press-core)
+- [Complete Gunslinger](https://foundryvtt.com/packages/mage-hand-press-complete-gunslinger)
 - [Complete Warmage](https://foundryvtt.com/packages/mage-hand-press-complete-warmage)
 
 ### Source Books

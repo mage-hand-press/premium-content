@@ -21,6 +21,7 @@ body:
       multiple: false
       options:
         - "Core Classes"
+        - "Complete Gunslinger"
         - "Complete Warmage"
         - "Book of Extinction"
         - "Dark Matter"
