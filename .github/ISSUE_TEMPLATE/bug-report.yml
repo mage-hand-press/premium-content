@@ -21,6 +21,7 @@ body:
       multiple: false
       options:
         - "Core Classes"
+        - "Complete Alchemist"
         - "Complete Gunslinger"
         - "Complete Warmage"
         - "Book of Extinction"
