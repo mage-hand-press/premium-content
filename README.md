@@ -8,6 +8,7 @@ Use the "Issues" tab above to submit any bug reports or feature requests for any
 - [Core Classes](https://foundryvtt.com/packages/mage-hand-press-core)
 - [Complete Alchemist](https://foundryvtt.com/packages/mage-hand-press-complete-alchemist)
 - [Complete Gunslinger](https://foundryvtt.com/packages/mage-hand-press-complete-gunslinger)
+- [Complete Investigator](https://foundryvtt.com/packages/mage-hand-press-complete-investigator)
 - [Complete Warmage](https://foundryvtt.com/packages/mage-hand-press-complete-warmage)
 
 ### Source Books
